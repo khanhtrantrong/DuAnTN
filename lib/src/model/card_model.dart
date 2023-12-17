@@ -34,4 +34,4 @@ class GioHang {
         'ghichu': ghichu,
         'hinhanh': hinhanh,
       };
-}
+}//6s
